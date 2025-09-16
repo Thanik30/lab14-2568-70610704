@@ -41,7 +41,7 @@ export default function Sidebar() {
             <Avatar size="md" radius="xl" src="/picturegu.jpg" />
           </Indicator>
           <Text component={RouterNavLink} to="/">
-            User : Thanik : Student
+            User : Thanik : student
           </Text>
         </Group>
       </Box>
